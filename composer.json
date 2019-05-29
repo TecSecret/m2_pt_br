@@ -1,0 +1,29 @@
+{
+  "name": "tecsecret/m2_pt_br",
+  "description": "Tradução para Português do Brasil oficial do Magento 2",
+  "version": "1.0",
+    "license": [
+    "proprietary"
+  ],
+  "authors": [
+    {
+      "name": "Grupo TecSecret",
+      "homepage": "https://tecsecret.com.br",
+	  "email": "webmaster@tecsecret.com.br",
+	  "role": "Departamento de Desenvolvimento"
+    },
+    {
+      "name": "Magento official translations project for Magento 2",
+      "homepage": "https://crowdin.com/project/magento-2"
+    }
+  ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
