@@ -40,6 +40,8 @@ Para começar a usar a tradução instalada vá em `Stores -> Configuration -> G
 
 
 # Autores
-<p Tradução original [Crowdin](https://crowdin.com/project/magento-2).</p>
-<p Adaptação e modificação [Dep. de Desenvolvimento Web - Grupo TecSecret](https://tecsecret.com.br)</p>
-<p Revisado por Nelsir Luterek
+<p align="justify">
+Tradução original [Crowdin](https://crowdin.com/project/magento-2).</a>
+Adaptação e modificação [Dep. de Desenvolvimento Web - Grupo TecSecret](https://tecsecret.com.br)</a>
+Revisado por Nelsir Luterek
+</p>
