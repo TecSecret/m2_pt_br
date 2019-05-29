@@ -28,12 +28,18 @@ php bin/magento setup:static-content:deploy pt_BR -f
 php bin/magento cache:clean
 ```
 
+# Update
+'''
+composer update tecsecret/m2_pt_br
+bin/magento setup:upgrade
+'''
+
 # Como Usar
 
 Para começar a usar a tradução instalada vá em `Stores -> Configuration -> General -> General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.
 
 
 # Autores
-Tradução original [Crowdin](https://crowdin.com/project/magento-2).
-Adaptação e modificação [Dep. de Desenvolvimento Web - Grupo TecSecret](https://tecsecret.com.br)
-Revisao [Nelsir Luterek]
+<p Tradução original [Crowdin](https://crowdin.com/project/magento-2).</p>
+<p Adaptação e modificação [Dep. de Desenvolvimento Web - Grupo TecSecret](https://tecsecret.com.br)</p>
+<p Revisado por Nelsir Luterek
