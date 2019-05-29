@@ -29,10 +29,10 @@ php bin/magento cache:clean
 ```
 
 # Update
-'''
+```
 composer update tecsecret/m2_pt_br
 bin/magento setup:upgrade
-'''
+```
 
 # Como Usar
 
